@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+_fixture/out/
+dist/
+build/
+*.spec
+.venv/

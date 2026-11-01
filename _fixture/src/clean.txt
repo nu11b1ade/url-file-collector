@@ -1,0 +1,3 @@
+This document has no network addresses.
+Version 1.2.3 is only a version, not an IPv4 address.
+Bare words such as intranet and localhost are not domains.
